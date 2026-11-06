@@ -1,0 +1,1468 @@
+{
+ "entries": [
+  {
+   "ja": "裏拍を20回PERFECT",
+   "en": "20 PERFECT offbeats"
+  },
+  {
+   "ja": "1回で300m走る",
+   "en": "Run 300 m in one go"
+  },
+  {
+   "ja": "ボスを1体たおす",
+   "en": "Defeat 1 boss"
+  },
+  {
+   "ja": "PERFECTを150回",
+   "en": "150 PERFECTs"
+  },
+  {
+   "ja": "最大コンボ60",
+   "en": "Max combo 60"
+  },
+  {
+   "ja": "長い物を8本斬りきる",
+   "en": "Finish 8 long objects"
+  },
+  {
+   "ja": "回復カプセルを2個取る",
+   "en": "Grab 2 heart capsules"
+  },
+  {
+   "ja": "1回で8万点",
+   "en": "80,000 points in one run"
+  },
+  {
+   "ja": "・",
+   "en": " / "
+  },
+  {
+   "ja": "達成！",
+   "en": "Done!"
+  },
+  {
+   "ja": " コイン",
+   "en": " coins"
+  },
+  {
+   "ja": "スコア倍率 MAX ×1.5",
+   "en": "Score multiplier MAX ×1.5"
+  },
+  {
+   "ja": "コイン ×2",
+   "en": "Coins ×2"
+  },
+  {
+   "ja": "FEVERボーナス +",
+   "en": "FEVER bonus +"
+  },
+  {
+   "ja": "枚",
+   "en": ""
+  },
+  {
+   "ja": "次は ",
+   "en": "Next: "
+  },
+  {
+   "ja": "プライバシーポリシー",
+   "en": "Privacy policy"
+  },
+  {
+   "ja": "ドリンクの手に入れ方",
+   "en": "How to get drinks"
+  },
+  {
+   "ja": "・毎日のログインボーナスで 1本",
+   "en": "• 1 from the daily login bonus"
+  },
+  {
+   "ja": "・その日 はじめてボスを倒すと 1本",
+   "en": "• 1 for your first boss win of the day"
+  },
+  {
+   "ja": "・ボスにやられたら そのプレイは回数を使わない",
+   "en": "• A run lost to a boss doesn't use up a play"
+  },
+  {
+   "ja": "・毎日のログインボーナスで 1本\n・その日 はじめてボスを倒すと 1本\n・ボスにやられたら そのプレイは回数を使わない\n・コイン ",
+   "en": "• 1 from the daily login bonus\n• 1 for your first boss win of the day\n• A run lost to a boss doesn't use up a play\n• Trade "
+  },
+  {
+   "ja": "枚で 1本と交換",
+   "en": " coins for 1"
+  },
+  {
+   "ja": "トースター魔人",
+   "en": "Toaster Fiend"
+  },
+  {
+   "ja": "たまねぎ大王",
+   "en": "Onion King"
+  },
+  {
+   "ja": "ソフトクリーム将軍",
+   "en": "General Soft-Serve"
+  },
+  {
+   "ja": "ドーナツ伯爵",
+   "en": "Count Donut"
+  },
+  {
+   "ja": "ゼンマイ大王",
+   "en": "Wind-up King"
+  },
+  {
+   "ja": "カミナリ雲大将",
+   "en": "Thundercloud General"
+  },
+  {
+   "ja": "雪だるま将軍",
+   "en": "Snowman General"
+  },
+  {
+   "ja": " があらわれた！",
+   "en": " appears!"
+  },
+  {
+   "ja": "BOSS撃破！",
+   "en": "BOSS DEFEATED!"
+  },
+  {
+   "ja": "♥ +1   コイン +",
+   "en": "♥ +1   Coins +"
+  },
+  {
+   "ja": "怒りモード！",
+   "en": "RAGE MODE!"
+  },
+  {
+   "ja": "ためこうげき！",
+   "en": "CHARGE ATTACK!"
+  },
+  {
+   "ja": "ハート回復！",
+   "en": "Heart restored!"
+  },
+  {
+   "ja": "ハート満タン！",
+   "en": "Hearts full!"
+  },
+  {
+   "ja": "コイン +5",
+   "en": "Coins +5"
+  },
+  {
+   "ja": "斬撃ラッシュ!!",
+   "en": "SLASH RUSH!!"
+  },
+  {
+   "ja": "前方をぜんぶ斬る！ +20m",
+   "en": "Slash everything ahead! +20m"
+  },
+  {
+   "ja": "巨大化!!",
+   "en": "GIANT!!"
+  },
+  {
+   "ja": "8拍のあいだ どのレーンでも斬れる",
+   "en": "Any lane slashes for 8 beats"
+  },
+  {
+   "ja": "バリア！",
+   "en": "BARRIER!"
+  },
+  {
+   "ja": "ミス1回を防ぐ",
+   "en": "Blocks one miss"
+  },
+  {
+   "ja": "元に戻った！",
+   "en": "Back to normal!"
+  },
+  {
+   "ja": "レーンに注意",
+   "en": "Watch your lanes"
+  },
+  {
+   "ja": "逃げられた…",
+   "en": "It got away…"
+  },
+  {
+   "ja": "次のボスで取り返そう",
+   "en": "Get the next one!"
+  },
+  {
+   "ja": "タイミングを自動で合わせる",
+   "en": "Auto-adjust timing"
+  },
+  {
+   "ja": "もう一度",
+   "en": "Again"
+  },
+  {
+   "ja": "もどる",
+   "en": "Back"
+  },
+  {
+   "ja": "「カッ」という音に合わせて、\n画面の下半分をタップしてください。\n（最初の4回は聞くだけ。画面は見なくてOK）",
+   "en": "Tap the lower half of the screen\nin time with the click.\n(Just listen to the first 4. No need to watch.)"
+  },
+  {
+   "ja": "聞いて… ",
+   "en": "Listen… "
+  },
+  {
+   "ja": "あと ",
+   "en": ""
+  },
+  {
+   "ja": " 回",
+   "en": " left"
+  },
+  {
+   "ja": "うまく測れませんでした。\n音に合わせて、もう一度タップしてください。",
+   "en": "Couldn't measure that.\nPlease tap along with the sound again."
+  },
+  {
+   "ja": "タイミング補正を ",
+   "en": "Timing offset set to "
+  },
+  {
+   "ja": "ms にしました。\n（設定の「タイミング補正」でいつでも変えられます）",
+   "en": " ms.\n(Change it anytime under Timing offset in Settings.)"
+  },
+  {
+   "ja": "いちご",
+   "en": "Strawberry"
+  },
+  {
+   "ja": "スイカ",
+   "en": "Watermelon"
+  },
+  {
+   "ja": "たる",
+   "en": "Barrel"
+  },
+  {
+   "ja": "木箱",
+   "en": "Crate"
+  },
+  {
+   "ja": "ダイヤ",
+   "en": "Diamond"
+  },
+  {
+   "ja": "サイコロ",
+   "en": "Dice"
+  },
+  {
+   "ja": "目覚まし",
+   "en": "Alarm clock"
+  },
+  {
+   "ja": "アヒル",
+   "en": "Duck"
+  },
+  {
+   "ja": "フランスパン",
+   "en": "Baguette"
+  },
+  {
+   "ja": "ネギ",
+   "en": "Leek"
+  },
+  {
+   "ja": "えんぴつ",
+   "en": "Pencil"
+  },
+  {
+   "ja": "カボチャ",
+   "en": "Pumpkin"
+  },
+  {
+   "ja": "金庫",
+   "en": "Safe"
+  },
+  {
+   "ja": "称号",
+   "en": "TITLE"
+  },
+  {
+   "ja": "斬った数",
+   "en": "SLICED"
+  },
+  {
+   "ja": "ボス撃破",
+   "en": "BOSSES"
+  },
+  {
+   "ja": "シェア",
+   "en": "Share"
+  },
+  {
+   "ja": "保存",
+   "en": "Save"
+  },
+  {
+   "ja": "閉じる",
+   "en": "Close"
+  },
+  {
+   "ja": "ボスハンター",
+   "en": "Boss Hunter"
+  },
+  {
+   "ja": "伝説のランナー",
+   "en": "Legendary Runner"
+  },
+  {
+   "ja": "コンボの鬼",
+   "en": "Combo Demon"
+  },
+  {
+   "ja": "フィーバー職人",
+   "en": "Fever Artisan"
+  },
+  {
+   "ja": "世界を駆ける者",
+   "en": "World Runner"
+  },
+  {
+   "ja": "ボスキラー",
+   "en": "Boss Killer"
+  },
+  {
+   "ja": "パーフェクト名人",
+   "en": "Perfect Master"
+  },
+  {
+   "ja": "マスター",
+   "en": " Master"
+  },
+  {
+   "ja": "まな板のサムライ",
+   "en": "Cutting-Board Samurai"
+  },
+  {
+   "ja": "見習いランナー",
+   "en": "Apprentice Runner"
+  },
+  {
+   "ja": "回",
+   "en": ""
+  },
+  {
+   "ja": "、ボス",
+   "en": ", beat "
+  },
+  {
+   "ja": "体撃破",
+   "en": " boss(es)"
+  },
+  {
+   "ja": "リズムスラッシュランナーで ",
+   "en": "I ran "
+  },
+  {
+   "ja": "m 走った！",
+   "en": " m in Rhythm Slash Runner!"
+  },
+  {
+   "ja": "\n称号「",
+   "en": "\nTitle: \""
+  },
+  {
+   "ja": "シェアできませんでした",
+   "en": "Couldn't share"
+  },
+  {
+   "ja": "「保存」で画像を保存してから、好きなアプリで投稿してね。",
+   "en": "Save the picture, then post it from any app."
+  },
+  {
+   "ja": "シェアの準備ができました",
+   "en": "Ready to share"
+  },
+  {
+   "ja": "画像を「ピクチャ」の RhythmSlashRunner に保存し、投稿文をコピーしました。",
+   "en": "Saved the picture to Pictures/RhythmSlashRunner and copied the post text."
+  },
+  {
+   "ja": "保存しました",
+   "en": "Saved"
+  },
+  {
+   "ja": "保存できませんでした",
+   "en": "Couldn't save"
+  },
+  {
+   "ja": "端末の空き容量や権限を確認してください。",
+   "en": "Check your storage space and permissions."
+  },
+  {
+   "ja": "写真アプリの「RhythmSlashRunner」アルバム",
+   "en": "the \"RhythmSlashRunner\" album in your photos"
+  },
+  {
+   "ja": "アプリを終了しますか？",
+   "en": "Quit the app?"
+  },
+  {
+   "ja": "終了する",
+   "en": "Quit"
+  },
+  {
+   "ja": "キャンセル",
+   "en": "Cancel"
+  },
+  {
+   "ja": "空振り",
+   "en": "Empty swings"
+  },
+  {
+   "ja": "ためこうげき",
+   "en": "Charge attacks"
+  },
+  {
+   "ja": "兵隊のこうげき",
+   "en": "Soldier attacks"
+  },
+  {
+   "ja": "ボスの弾",
+   "en": "Boss shots"
+  },
+  {
+   "ja": "長い物",
+   "en": "Long objects"
+  },
+  {
+   "ja": "連打",
+   "en": "Mash"
+  },
+  {
+   "ja": "裏拍",
+   "en": "Offbeats"
+  },
+  {
+   "ja": "ふつうの物",
+   "en": "Regular objects"
+  },
+  {
+   "ja": "ハートを失った原因：",
+   "en": "Hearts lost to: "
+  },
+  {
+   "ja": "エナジードリンク +1",
+   "en": "Energy drink +1"
+  },
+  {
+   "ja": "今日はじめての ボス撃破ボーナス",
+   "en": "First boss of the day bonus"
+  },
+  {
+   "ja": "ラインに来たら タップ！",
+   "en": "Tap at the line!"
+  },
+  {
+   "ja": "物が水色の線に重なった瞬間に、\nそのレーン（左・中央・右）を押して斬ろう。",
+   "en": "When an object touches the blue line,\ntap its lane (left, center, right) to slash it."
+  },
+  {
+   "ja": "長い物は 押しっぱなし！",
+   "en": "Hold long objects!"
+  },
+  {
+   "ja": "先頭がラインに来たら押して、\n最後まで離さずに 斬りきろう。",
+   "en": "Press when the tip reaches the line\nand keep holding to the end."
+  },
+  {
+   "ja": "くねった物は なぞれ！",
+   "en": "Trace the winding ones!"
+  },
+  {
+   "ja": "押したまま、物に沿って\n指を左右にすべらせよう。曲がり角は 紫の点。",
+   "en": "Keep pressing and slide your finger\nalong it. Purple dots mark the turns."
+  },
+  {
+   "ja": "ひびの入ったメロンは 割れる！",
+   "en": "Cracked melons split!"
+  },
+  {
+   "ja": "斬ると2つに割れて、\n半分ずつ となりのレーンに 転がってくる。",
+   "en": "Slash it and it splits in two —\neach half rolls into another lane."
+  },
+  {
+   "ja": "爆弾は 斬るな！",
+   "en": "Don't slash bombs!"
+  },
+  {
+   "ja": "導火線がチリチリ言ったら 見送ろう。\n斬るとコンボが切れる。よけたら ボーナス！",
+   "en": "Hear the fuse hiss? Let it pass.\nSlashing breaks your combo. Dodging earns a bonus!"
+  },
+  {
+   "ja": "かたい物は 連打！",
+   "en": "Mash hard objects!"
+  },
+  {
+   "ja": "どのレーンでもOK。\nリングが一周するまで たくさん叩いて割ろう。",
+   "en": "Any lane works.\nTap fast until the ring fills to break it."
+  },
+  {
+   "ja": "紫の点線は 裏拍",
+   "en": "Purple dotted lines are offbeats"
+  },
+  {
+   "ja": "白い線と白い線の まんなか。\n音の「ウラ」で斬ろう。",
+   "en": "Halfway between the white lines.\nSlash on the off-beat."
+  },
+  {
+   "ja": "光るカプセルは アイテム",
+   "en": "Glowing capsules are items"
+  },
+  {
+   "ja": "斬ると効果が出るよ。\n取り逃してもミスにはならない。",
+   "en": "Slash one to use it.\nMissing one is not a miss."
+  },
+  {
+   "ja": "ボスの弾を 斬って返せ！",
+   "en": "Slash the boss's shots back!"
+  },
+  {
+   "ja": "斬った弾が ボスにはね返ってダメージ。\n最後は連打で とどめ！",
+   "en": "Slashed shots fly back and hurt the boss.\nFinish it off by mashing!"
+  },
+  {
+   "ja": "兵隊のこうげきを 弾け！",
+   "en": "Parry the soldier!"
+  },
+  {
+   "ja": "剣が光ったら そのレーンをタップ。\nキン・キン・キン…最後の一撃で ふっとばそう！",
+   "en": "When the sword flashes, tap that lane.\nClang, clang… the last parry sends it flying!"
+  },
+  {
+   "ja": "カラスのコックは 気まぐれ！",
+   "en": "The Crow Cook is unpredictable!"
+  },
+  {
+   "ja": "レーンを跳ぶ・ためこうげき…何が来るかは毎回ちがう。\n紫の帯は 押しっぱなしで 炎をガード！",
+   "en": "Lane hops, charge attacks… it changes every time.\nHold on the purple band to block the flame!"
+  },
+  {
+   "ja": "金色の弾は チャンス！",
+   "en": "Gold shots are your chance!"
+  },
+  {
+   "ja": "PERFECTで返すと\nクリティカルで 大ダメージ！",
+   "en": "Return one with a PERFECT\nfor a critical hit!"
+  },
+  {
+   "ja": "はじめての物",
+   "en": "NEW!"
+  },
+  {
+   "ja": "タップして続ける",
+   "en": "Tap to continue"
+  },
+  {
+   "ja": "れんしゅうタイム",
+   "en": "Practice time"
+  },
+  {
+   "ja": "この間は ミスしても ハートは減らない",
+   "en": "Misses cost no hearts for now"
+  },
+  {
+   "ja": "データの読み込みに失敗しました。\nアプリを再インストールしてください。",
+   "en": "Failed to load the game data.\nPlease reinstall the app."
+  },
+  {
+   "ja": "プレイ",
+   "en": "PLAY"
+  },
+  {
+   "ja": "ショップ",
+   "en": "Shop"
+  },
+  {
+   "ja": "ランキング",
+   "en": "Ranking"
+  },
+  {
+   "ja": "イベント",
+   "en": "Events"
+  },
+  {
+   "ja": "設定",
+   "en": "Settings"
+  },
+  {
+   "ja": "今日の目標",
+   "en": "Today's goals"
+  },
+  {
+   "ja": "\n\nひとつ達成するごとに コイン +",
+   "en": "\n\nEach goal pays coins +"
+  },
+  {
+   "ja": "\n（毎日かわります）",
+   "en": "\n(New goals every day)"
+  },
+  {
+   "ja": "今日の目標 ",
+   "en": "Goals "
+  },
+  {
+   "ja": "ハムスター",
+   "en": "Hamster"
+  },
+  {
+   "ja": "ゴールデンハムスター",
+   "en": "Golden Hamster"
+  },
+  {
+   "ja": "黒猫",
+   "en": "Black Cat"
+  },
+  {
+   "ja": "クロネコ",
+   "en": "Black Cat"
+  },
+  {
+   "ja": "ロボット",
+   "en": "Robot"
+  },
+  {
+   "ja": "ロボ",
+   "en": "Robo"
+  },
+  {
+   "ja": "ペンギン",
+   "en": "Penguin"
+  },
+  {
+   "ja": "柴犬",
+   "en": "Shiba"
+  },
+  {
+   "ja": "シバイヌ",
+   "en": "Shiba Inu"
+  },
+  {
+   "ja": "おとっつぁん",
+   "en": "Pops"
+  },
+  {
+   "ja": "透明人間",
+   "en": "Invisible Kid"
+  },
+  {
+   "ja": "トウメイニンゲン",
+   "en": "Invisible Kid"
+  },
+  {
+   "ja": "鳥じい",
+   "en": "Grandpa Hawk"
+  },
+  {
+   "ja": "トリジイ",
+   "en": "Grandpa Hawk"
+  },
+  {
+   "ja": "白ハム",
+   "en": "Snow Hamster"
+  },
+  {
+   "ja": "シロハム",
+   "en": "Snow Hamster"
+  },
+  {
+   "ja": "ゼリーザメ",
+   "en": "Jelly Shark"
+  },
+  {
+   "ja": "使用中",
+   "en": "In use"
+  },
+  {
+   "ja": "タップで使う",
+   "en": "Tap to use"
+  },
+  {
+   "ja": "キャラクターの違いは見た目だけ。判定とスコアは全員共通です。",
+   "en": "Characters only change looks. Timing and score are the same for all."
+  },
+  {
+   "ja": "コインが足りません",
+   "en": "Not enough coins"
+  },
+  {
+   "ja": "まで あと ",
+   "en": ": "
+  },
+  {
+   "ja": " コイン。\n走ってコインを集めよう！",
+   "en": " more coins.\nRun to collect coins!"
+  },
+  {
+   "ja": "を仲間にする",
+   "en": ": recruit"
+  },
+  {
+   "ja": " コインで仲間にしますか？\n（見た目だけ。判定とスコアは同じです）",
+   "en": " coins to recruit?\n(Looks only. Timing and score stay the same.)"
+  },
+  {
+   "ja": "仲間にする",
+   "en": "Recruit"
+  },
+  {
+   "ja": "購入できませんでした",
+   "en": "Purchase failed"
+  },
+  {
+   "ja": "もう一度お試しください。",
+   "en": "Please try again."
+  },
+  {
+   "ja": "が仲間になった！",
+   "en": " joined you!"
+  },
+  {
+   "ja": "ホームからそのまま走れます。",
+   "en": "Run with them from the home screen."
+  },
+  {
+   "ja": "音楽",
+   "en": "Music"
+  },
+  {
+   "ja": "効果音",
+   "en": "Sound effects"
+  },
+  {
+   "ja": "合図音",
+   "en": "Cue sounds"
+  },
+  {
+   "ja": "タイミング補正",
+   "en": "Timing offset"
+  },
+  {
+   "ja": "判定が音より遅く感じたら＋へ",
+   "en": "If hits feel late, go +"
+  },
+  {
+   "ja": "自動で合わせる",
+   "en": "Auto-adjust"
+  },
+  {
+   "ja": "演出の強さ",
+   "en": "Effects"
+  },
+  {
+   "ja": "弱",
+   "en": "Low"
+  },
+  {
+   "ja": "標準",
+   "en": "Normal"
+  },
+  {
+   "ja": "強",
+   "en": "High"
+  },
+  {
+   "ja": "画面の揺れ",
+   "en": "Screen shake"
+  },
+  {
+   "ja": "振動",
+   "en": "Vibration"
+  },
+  {
+   "ja": "背景の動きをおさえる（酔いやすい方に）",
+   "en": "Calmer background (motion sickness)"
+  },
+  {
+   "ja": "プレイ記録を送る（匿名・改善のため）",
+   "en": "Send play data (anonymous)"
+  },
+  {
+   "ja": "診断表示（開発用）",
+   "en": "Diagnostics (dev)"
+  },
+  {
+   "ja": "チュートリアルとヒントをもう一度",
+   "en": "Show the tutorial and tips again"
+  },
+  {
+   "ja": "次のプレイで表示します",
+   "en": "Shown next time you play"
+  },
+  {
+   "ja": "最初の練習と、はじめて出てくる物のヒントをもう一度表示します。",
+   "en": "The first practice and the tips for new things will show again."
+  },
+  {
+   "ja": "ライセンス",
+   "en": "Licenses"
+  },
+  {
+   "ja": "初期値に戻す",
+   "en": "Reset"
+  },
+  {
+   "ja": "設定を初期値に戻す",
+   "en": "Reset settings"
+  },
+  {
+   "ja": "音量・補正・演出の設定を初期値に戻します。\nコインと所持品は消えません。",
+   "en": "Volume, timing and effect settings go back to default.\nCoins and items are kept."
+  },
+  {
+   "ja": "戻す",
+   "en": "Reset"
+  },
+  {
+   "ja": "フォント: M PLUS Rounded 1c (Bold / ExtraBold)\nCopyright 2016 The Rounded M+ Project Authors.\nSIL Open Font License 1.1\n\nゲーム内の画像はAI画像生成で制作しています。\n効果音とBGMはアプリ内で合成しています。\n\n",
+   "en": "Font: M PLUS Rounded 1c (Bold / ExtraBold)\nCopyright 2016 The Rounded M+ Project Authors.\nSIL Open Font License 1.1\n\nThe game's pictures were made with AI image generation.\nSound effects and music are synthesized in the app.\n\n"
+  },
+  {
+   "ja": "一時停止",
+   "en": "Paused"
+  },
+  {
+   "ja": "再開",
+   "en": "Resume"
+  },
+  {
+   "ja": "やり直す",
+   "en": "Restart"
+  },
+  {
+   "ja": "最初からやり直しますか？\n今回の記録とコインは保存されません。",
+   "en": "Restart from the beginning?\nThis run's record and coins won't be saved."
+  },
+  {
+   "ja": "ホームへ",
+   "en": "Home"
+  },
+  {
+   "ja": "ホームへ戻る",
+   "en": "Back to home"
+  },
+  {
+   "ja": "ホームに戻りますか？\n今回の記録とコインは保存されません。",
+   "en": "Go back to home?\nThis run's record and coins won't be saved."
+  },
+  {
+   "ja": "プレイの前に",
+   "en": "Before you play"
+  },
+  {
+   "ja": "このゲームには光の演出や画面の動きがあります。\nまれに光の刺激で体調を崩す方がいます。\n明るい部屋で、画面から離れてプレイし、\n気分が悪くなったらすぐに休んでください。\n\n演出の強さはあとから設定で変えられます。",
+   "en": "This game has flashing lights and screen motion.\nA few people may feel unwell from light effects.\nPlay in a bright room at a distance from the screen,\nand rest right away if you feel sick.\n\nYou can change the effect strength in Settings."
+  },
+  {
+   "ja": "距離",
+   "en": "Distance"
+  },
+  {
+   "ja": "スコア",
+   "en": "Score"
+  },
+  {
+   "ja": "最大コンボ",
+   "en": "Max combo"
+  },
+  {
+   "ja": "コイン",
+   "en": "Coins"
+  },
+  {
+   "ja": "保存に失敗しました",
+   "en": "Save failed"
+  },
+  {
+   "ja": "ホーム",
+   "en": "Home"
+  },
+  {
+   "ja": "結果カード",
+   "en": "Result card"
+  },
+  {
+   "ja": "ボス戦でのゲームオーバー：プレイ回数を1回 返しました",
+   "en": "Game over in a boss fight: 1 play refunded"
+  },
+  {
+   "ja": "今日の目標「",
+   "en": "Goal \""
+  },
+  {
+   "ja": "」達成！ +",
+   "en": "\" done! +"
+  },
+  {
+   "ja": "\n今日の目標を ぜんぶ達成！ エナジードリンク +1",
+   "en": "\nAll of today's goals done! Energy drink +1"
+  },
+  {
+   "ja": "保存を再試行",
+   "en": "Retry save"
+  },
+  {
+   "ja": "斬った数 +",
+   "en": "Sliced +"
+  },
+  {
+   "ja": "（うちFEVER +",
+   "en": " (FEVER +"
+  },
+  {
+   "ja": "）",
+   "en": ")"
+  },
+  {
+   "ja": "   距離 +",
+   "en": "   Distance +"
+  },
+  {
+   "ja": "   ベスト更新 +",
+   "en": "   New best +"
+  },
+  {
+   "ja": "ベストまで あと ",
+   "en": "Best is "
+  },
+  {
+   "ja": " m！",
+   "en": " m away!"
+  },
+  {
+   "ja": "楽しんでもらえてる？",
+   "en": "Enjoying the game?"
+  },
+  {
+   "ja": "よかったら ★で応援してね！\n開発のはげみになります。",
+   "en": "A ★ rating would mean a lot!\nIt keeps us going."
+  },
+  {
+   "ja": "評価する",
+   "en": "Rate"
+  },
+  {
+   "ja": "あとで",
+   "en": "Later"
+  },
+  {
+   "ja": "が買えます！",
+   "en": ": you can buy it!"
+  },
+  {
+   "ja": "所持",
+   "en": "Owned"
+  },
+  {
+   "ja": "装備中",
+   "en": "Equipped"
+  },
+  {
+   "ja": "装備する",
+   "en": "Equip"
+  },
+  {
+   "ja": " 入手",
+   "en": " Get"
+  },
+  {
+   "ja": "（試着中）",
+   "en": " (trying on)"
+  },
+  {
+   "ja": "武器は見た目と効果音だけが変わります（判定は共通）",
+   "en": "Weapons change looks and sounds only (timing is the same)"
+  },
+  {
+   "ja": " 枚。\nランでコインを集めよう！",
+   "en": " more coins.\nRun to collect coins!"
+  },
+  {
+   "ja": "プレイする",
+   "en": "Play"
+  },
+  {
+   "ja": "とじる",
+   "en": "Close"
+  },
+  {
+   "ja": "を入手",
+   "en": ": get"
+  },
+  {
+   "ja": " コイン\n所持 ",
+   "en": " coins\nWallet "
+  },
+  {
+   "ja": "入手する",
+   "en": "Get"
+  },
+  {
+   "ja": "やめる",
+   "en": "Cancel"
+  },
+  {
+   "ja": "入手できませんでした",
+   "en": "Couldn't get it"
+  },
+  {
+   "ja": "保存に失敗しました。もう一度お試しください。",
+   "en": "Save failed. Please try again."
+  },
+  {
+   "ja": "コインが足りません。",
+   "en": "Not enough coins."
+  },
+  {
+   "ja": "すぐ装備",
+   "en": "Equip now"
+  },
+  {
+   "ja": " を開封！",
+   "en": ": opening!"
+  },
+  {
+   "ja": "あと",
+   "en": ""
+  },
+  {
+   "ja": "日 遊びほうだい！",
+   "en": " days of free play!"
+  },
+  {
+   "ja": "プレイ ",
+   "en": "Plays "
+  },
+  {
+   "ja": "  あと",
+   "en": "  "
+  },
+  {
+   "ja": "で+1",
+   "en": " to +1"
+  },
+  {
+   "ja": "  満タン",
+   "en": "  Full"
+  },
+  {
+   "ja": "\nエナジードリンク ×",
+   "en": "\nEnergy drinks ×"
+  },
+  {
+   "ja": "プレイ回数",
+   "en": "Plays"
+  },
+  {
+   "ja": "ショップへ",
+   "en": "To the shop"
+  },
+  {
+   "ja": "エナジードリンクを飲む？",
+   "en": "Drink an energy drink?"
+  },
+  {
+   "ja": "\n\n1本でプレイ回数が 満タンに！",
+   "en": "\n\nOne drink refills your plays!"
+  },
+  {
+   "ja": "飲む",
+   "en": "Drink"
+  },
+  {
+   "ja": "プレイ回数がありません",
+   "en": "No plays left"
+  },
+  {
+   "ja": "\n\nエナジードリンクで すぐ満タンに。",
+   "en": "\n\nAn energy drink refills them at once."
+  },
+  {
+   "ja": "ゴクッ！",
+   "en": "Gulp!"
+  },
+  {
+   "ja": "プレイ回数が 満タンになった！\n",
+   "en": "Plays refilled!\n"
+  },
+  {
+   "ja": "ゲームの改善にご協力ください",
+   "en": "Help us improve the game"
+  },
+  {
+   "ja": "どこで失敗しやすいか などの遊び方の記録を、名前などの個人情報なしで送ってもいいですか？\nあとから設定で いつでも止められます。",
+   "en": "May we send play data (like where runs end), with no name or personal info?\nYou can turn it off anytime in Settings."
+  },
+  {
+   "ja": "送ってOK",
+   "en": "Allow"
+  },
+  {
+   "ja": "送らない",
+   "en": "Don't allow"
+  },
+  {
+   "ja": "ログインボーナス",
+   "en": "Login bonus"
+  },
+  {
+   "ja": "エナジードリンク +1\n（所持 ",
+   "en": "Energy drink +1\n(You have "
+  },
+  {
+   "ja": "本）\n\nまた明日も来てね！",
+   "en": ")\n\nSee you tomorrow!"
+  },
+  {
+   "ja": "キャラ",
+   "en": "Characters"
+  },
+  {
+   "ja": "武器",
+   "en": "Weapons"
+  },
+  {
+   "ja": "アイテム",
+   "en": "Items"
+  },
+  {
+   "ja": "特別",
+   "en": "Special"
+  },
+  {
+   "ja": "飲んで満タン",
+   "en": "Drink & refill"
+  },
+  {
+   "ja": "エナジードリンク 1本",
+   "en": "Energy drink ×1"
+  },
+  {
+   "ja": "エナジードリンク 3本パック",
+   "en": "Energy drink 3-pack"
+  },
+  {
+   "ja": "エナジードリンク 10本パック",
+   "en": "Energy drink 10-pack"
+  },
+  {
+   "ja": "ドリンク1本で プレイ回数が満タン（",
+   "en": "One drink refills your plays ("
+  },
+  {
+   "ja": "回）。プレイ回数は ",
+   "en": "). One play comes back every "
+  },
+  {
+   "ja": "分で1回 回復します。",
+   "en": " minutes."
+  },
+  {
+   "ja": "準備中",
+   "en": "Coming soon"
+  },
+  {
+   "ja": "お金での購入は 準備中です（ストアにつながっていません）。\nコインでの購入や ログインボーナスを使ってね。",
+   "en": "Purchases aren't available yet (no store connection).\nUse coins or the login bonus for now."
+  },
+  {
+   "ja": "エナジードリンク ",
+   "en": "Energy drink ×"
+  },
+  {
+   "ja": "本",
+   "en": ""
+  },
+  {
+   "ja": " で購入します。",
+   "en": " — buy?"
+  },
+  {
+   "ja": "購入する",
+   "en": "Buy"
+  },
+  {
+   "ja": "ありがとう！",
+   "en": "Thank you!"
+  },
+  {
+   "ja": "エナジードリンク +",
+   "en": "Energy drinks +"
+  },
+  {
+   "ja": "\n（所持 ",
+   "en": "\n(You have "
+  },
+  {
+   "ja": "本）",
+   "en": ")"
+  },
+  {
+   "ja": "限定アイテム",
+   "en": "Limited items"
+  },
+  {
+   "ja": "イベントの景品や 限定の武器・キャラが\nここに並びます。（準備中）",
+   "en": "Event rewards and limited weapons and characters\nwill appear here. (Coming soon)"
+  },
+  {
+   "ja": "週間ランキング",
+   "en": "Weekly ranking"
+  },
+  {
+   "ja": "今週のベスト",
+   "en": "This week's best"
+  },
+  {
+   "ja": "これまでのベスト ",
+   "en": "All-time best "
+  },
+  {
+   "ja": "月曜日にリセット（あと ",
+   "en": "Resets on Monday ("
+  },
+  {
+   "ja": " 日）",
+   "en": " days left)"
+  },
+  {
+   "ja": "ランキングを見る",
+   "en": "View ranking"
+  },
+  {
+   "ja": "Game Center に サインインしてから もう一度押してね。",
+   "en": "Sign in to Game Center, then tap again."
+  },
+  {
+   "ja": "Android版のランキングは 準備中です（Google Play ゲームズとの連携が必要）。",
+   "en": "The Android ranking is coming soon (needs Google Play Games)."
+  },
+  {
+   "ja": "ランキングは スマホ版で見られます。",
+   "en": "The ranking is available on phones."
+  },
+  {
+   "ja": "iPhone と Android は 別々のランキングです。",
+   "en": "iPhone and Android have separate rankings."
+  },
+  {
+   "ja": "季節のイベント",
+   "en": "Seasonal events"
+  },
+  {
+   "ja": "期間中に流れてくる 季節の特別な物を斬って\nポイントを集めよう！\n終わったら 限定の武器やキャラと交換できるよ。\n\n（ただいま準備中）",
+   "en": "Slash the special seasonal objects that appear\nduring the event to collect points!\nTrade them for limited weapons and characters.\n\n(Coming soon)"
+  },
+  {
+   "ja": "♪ 裏拍がくるよ！ 拍と拍のあいだ",
+   "en": "♪ Offbeats! Between the beats"
+  },
+  {
+   "ja": "一閃!!",
+   "en": "FINISH!!"
+  },
+  {
+   "ja": "長押し！",
+   "en": "HOLD!"
+  },
+  {
+   "ja": "はなせ！",
+   "en": "RELEASE!"
+  },
+  {
+   "ja": "そのまま！",
+   "en": "KEEP HOLDING!"
+  },
+  {
+   "ja": "← なぞれ！",
+   "en": "← TRACE!"
+  },
+  {
+   "ja": "なぞれ！ →",
+   "en": "TRACE! →"
+  },
+  {
+   "ja": "なぞれ！",
+   "en": "TRACE!"
+  },
+  {
+   "ja": "とどめ！！",
+   "en": "FINISH IT!!"
+  },
+  {
+   "ja": "連打！！",
+   "en": "MASH!!"
+  },
+  {
+   "ja": "連打！",
+   "en": "MASH!"
+  },
+  {
+   "ja": "斬撃ラッシュ GET!",
+   "en": "SLASH RUSH GET!"
+  },
+  {
+   "ja": "巨大化 GET!",
+   "en": "GIANT GET!"
+  },
+  {
+   "ja": "バリア GET!",
+   "en": "BARRIER GET!"
+  },
+  {
+   "ja": "ガード！",
+   "en": "GUARD!"
+  },
+  {
+   "ja": "カウンター！！",
+   "en": "COUNTER!!"
+  },
+  {
+   "ja": "おしい！",
+   "en": "SO CLOSE!"
+  },
+  {
+   "ja": "粉砕！！",
+   "en": "SMASHED!!"
+  },
+  {
+   "ja": "キン！",
+   "en": "CLANG!"
+  },
+  {
+   "ja": "カン",
+   "en": "CLINK"
+  },
+  {
+   "ja": "反撃！！",
+   "en": "COUNTER!!"
+  },
+  {
+   "ja": "はじき返した！",
+   "en": "PARRIED!"
+  },
+  {
+   "ja": "ドカン！",
+   "en": "BOOM!"
+  },
+  {
+   "ja": "ペシャ！",
+   "en": "SQUISH!"
+  },
+  {
+   "ja": "よけた！",
+   "en": "DODGED!"
+  },
+  {
+   "ja": "キャンセルしました",
+   "en": "Cancelled"
+  },
+  {
+   "ja": "購入できませんでした（",
+   "en": "Purchase failed ("
+  },
+  {
+   "ja": "ストアにつながりません。しばらくしてからお試しください。",
+   "en": "Can't reach the store. Please try again later."
+  },
+  {
+   "ja": "#リズムスラッシュランナー",
+   "en": "#RhythmSlashRunner"
+  },
+  {
+   "ja": "ランナー",
+   "en": "Runner"
+  },
+  {
+   "ja": "エネルギーブレード",
+   "en": "Energy Blade"
+  },
+  {
+   "ja": "木刀",
+   "en": "Wooden Sword"
+  },
+  {
+   "ja": "バナナブレード",
+   "en": "Banana Blade"
+  },
+  {
+   "ja": "コロコロ",
+   "en": "Lint Roller"
+  },
+  {
+   "ja": "菜箸",
+   "en": "Cooking Chopsticks"
+  },
+  {
+   "ja": "氷の爪",
+   "en": "Ice Claws"
+  },
+  {
+   "ja": "カウボーイの縄",
+   "en": "Cowboy Lasso"
+  },
+  {
+   "ja": "段ボールの剣",
+   "en": "Cardboard Sword"
+  },
+  {
+   "ja": "煙のバット",
+   "en": "Smoke Bat"
+  },
+  {
+   "ja": "巨大キッチン",
+   "en": "Giant Kitchen"
+  },
+  {
+   "ja": "おもちゃ部屋",
+   "en": "Toy Room"
+  },
+  {
+   "ja": "空中果樹園",
+   "en": "Sky Orchard"
+  },
+  {
+   "ja": "ネオン市場",
+   "en": "Neon Market"
+  },
+  {
+   "ja": "おかしの国",
+   "en": "Candy Land"
+  },
+  {
+   "ja": "こおりの冷凍庫",
+   "en": "Icy Freezer"
+  },
+  {
+   "ja": "ひびの入ったメロン",
+   "en": "Cracked melon"
+  },
+  {
+   "ja": "言語 Language",
+   "en": "Language"
+  },
+  {
+   "ja": "日本語",
+   "en": "日本語"
+  },
+  {
+   "ja": "言語：日本語",
+   "en": "言語：日本語"
+  },
+  {
+   "ja": "アプリを再起動すると 日本語になります。",
+   "en": "アプリを再起動すると 日本語になります。"
+  }
+ ]
+}

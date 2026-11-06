@@ -1,0 +1,654 @@
+{
+  "schemaVersion": 1,
+  "patterns": [
+    {"id": "basic_center_01", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_watermelon","gesture":"tap"}
+      ]
+    },
+    {"id": "basic_pulse_01", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":5,"lane":1,"objectId":"object_watermelon","gesture":"tap"}
+      ]
+    },
+    {"id": "basic_lanes_01", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "lanes_mirror_01", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "lanes_six_01", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":4,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":6,"lane":2,"objectId":"object_watermelon","gesture":"tap"}
+      ]
+    },
+    {"id": "onbeat_flow_01", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":0,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":1,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "onbeat_rest_01", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e04","beat":4,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":6,"lane":1,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "onbeat_steps_01", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":2,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "offbeat_intro_01", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":2,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":2.5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":6.5,"lane":0,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "offbeat_lanes_01", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e05","beat":3,"lane":2,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e06","beat":4,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":5.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e09","beat":6,"lane":0,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "offbeat_pairs_01", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":0,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":5.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":6,"lane":2,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "mixed_01", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":0.5,"lane":0,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e03","beat":1,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":2.5,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e06","beat":3,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e07","beat":4,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":4.5,"lane":0,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e09","beat":5,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e10","beat":6,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e11","beat":6.5,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e12","beat":7,"lane":0,"objectId":"object_watermelon","gesture":"tap"}
+      ]
+    },
+    {"id": "mixed_02", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":0.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e05","beat":2.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":3,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":4,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e08","beat":4.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e09","beat":5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e10","beat":6,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e11","beat":6.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e12","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "mixed_03", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e05","beat":3,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e06","beat":4,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":4.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":5,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e09","beat":6,"lane":2,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e10","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "groove_01", "durationBeats": 8, "difficultyTier": 5, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":0.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e05","beat":2.5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":3,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":4,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e08","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e09","beat":5.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e10","beat":6,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e11","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "groove_02", "durationBeats": 8, "difficultyTier": 5, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":2,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":0,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e05","beat":3,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e06","beat":3.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":4,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e08","beat":5,"lane":2,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e09","beat":5.5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e10","beat":6,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e11","beat":7,"lane":0,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e12","beat":7.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "hold_intro_01", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":1,"objectId":"object_hold","gesture":"hold","length":2},
+        {"id":"e04","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "hold_lanes_01", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_hold","gesture":"hold","length":2},
+        {"id":"e03","beat":4,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "hold_long_01", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_hold","gesture":"hold","length":3},
+        {"id":"e02","beat":4,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":5,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":7,"lane":1,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "hold_double_01", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_hold","gesture":"hold","length":2},
+        {"id":"e02","beat":3,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":2,"objectId":"object_hold","gesture":"hold","length":2},
+        {"id":"e04","beat":7,"lane":1,"objectId":"object_watermelon","gesture":"tap"}
+      ]
+    },
+    {"id": "hold_off_01", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02a","beat":1.0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1.5,"lane":1,"objectId":"object_hold","gesture":"hold","length":2},
+        {"id":"e03","beat":4,"lane":0,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e04","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":5.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06a","beat":6.0,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":6.5,"lane":2,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e07","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "hold_groove_01", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e02","beat":0.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":0,"objectId":"object_hold","gesture":"hold","length":2},
+        {"id":"e06","beat":5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":5.5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":6,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e09","beat":7,"lane":0,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "mash_intro_01", "durationBeats": 8, "difficultyTier": 2, "weight": 0.5, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_mash","gesture":"mash","length":3},
+        {"id":"e05","beat":7,"lane":1,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "mash_rush_01", "durationBeats": 8, "difficultyTier": 3, "weight": 0.5, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":0.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":1.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":2,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e06","beat":3,"lane":1,"objectId":"object_mash","gesture":"mash","length":3},
+        {"id":"e07","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "mash_groove_01", "durationBeats": 8, "difficultyTier": 4, "weight": 0.5, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":0.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":1.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":2,"lane":1,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e06","beat":3,"lane":1,"objectId":"object_mash","gesture":"mash","length":3},
+        {"id":"e07","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":7.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_volley_a", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "role": "boss", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":2,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":1,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":2,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_volley_b", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "role": "boss", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":2,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":2,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":1,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_volley_c", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "role": "boss", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e03","beat":1.5,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":2,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e07","beat":5.5,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e08","beat":6,"lane":0,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_charge_a", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "role": "boss_charge", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":1,"objectId":"object_boss_charge","gesture":"hold","length":2},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e05","beat":7,"lane":2,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_charge_b", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "role": "boss_charge", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":1,"objectId":"object_boss_charge","gesture":"hold","length":2},
+        {"id":"e04","beat":6,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e05","beat":6.5,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e06","beat":7,"lane":1,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_finish_a", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "role": "boss_finish", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_mash","gesture":"mash","length":4}
+      ]
+    },
+    {"id": "boss_finish_b", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "role": "boss_finish", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":2,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_mash","gesture":"mash","length":4}
+      ]
+    },
+    {"id": "tutorial_tap", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "role": "tutorial", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":2,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "tutorial_hold", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "role": "tutorial", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_hold","gesture":"hold","length":3},
+        {"id":"e03","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "tutorial_mash", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "role": "tutorial", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_mash","gesture":"mash","length":4}
+      ]
+    },
+    {"id": "long2_intro_01", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":2,"objectId":"object_slide","gesture":"hold","length":3},
+        {"id":"e02","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":6,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":7,"lane":0,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "long2_wave_01", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":2,"objectId":"object_slide","gesture":"hold","length":4},
+        {"id":"e02","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":6,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":7,"lane":0,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "long2_snake_01", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":2,"objectId":"object_slide","gesture":"hold","length":4},
+        {"id":"e02","beat":5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":6,"lane":2,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e04","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "long2_double_01", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_slide","gesture":"hold","length":2},
+        {"id":"e02","beat":3,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":3.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":1,"objectId":"object_slide","gesture":"hold","length":3}
+      ]
+    },
+    {"id": "long2_cross_01", "durationBeats": 8, "difficultyTier": 5, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_slide","gesture":"hold","length":4},
+        {"id":"e02","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e05","beat":5.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":6,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":7,"lane":2,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_toy_a", "durationBeats": 8, "difficultyTier": 0, "weight": 1, "role": "soldier", "events": [
+        {"id":"e01","beat":2,"lane":1,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e02","beat":3,"lane":1,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":1,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_soldier_toy","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_toy_b", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e04","beat":4,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e05","beat":6,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":7,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_toy_c", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e04","beat":4,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e05","beat":5,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e06","beat":6,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_soldier_a", "durationBeats": 8, "difficultyTier": 0, "weight": 2, "role": "boss", "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":0,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":2,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":1,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":2,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_soldier_b", "durationBeats": 8, "difficultyTier": 0, "weight": 2, "role": "boss", "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":2,"objectId":"object_soldier_toy","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":1,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":0,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_ginger_a", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":1,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e02","beat":1.5,"lane":1,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":1,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e04","beat":3.5,"lane":1,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e05","beat":5,"lane":1,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e06","beat":6,"lane":1,"objectId":"object_soldier_ginger","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_ginger_b", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":0,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e02","beat":1.5,"lane":0,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":0,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":0,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e05","beat":3.5,"lane":0,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e06","beat":4,"lane":0,"objectId":"object_soldier_ginger","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":0,"objectId":"object_soldier_ginger","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_frog_a", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "role": "soldier", "events": [
+        {"id":"e01","beat":2,"lane":0,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e02","beat":3,"lane":1,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e03","beat":4,"lane":2,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_soldier_frog","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_frog_b", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":2,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":0,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e04","beat":4,"lane":1,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e05","beat":5,"lane":2,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e06","beat":6,"lane":1,"objectId":"object_soldier_frog","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_a", "durationBeats": 8, "difficultyTier": 1, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":1,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e04","beat":6,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_a_m", "durationBeats": 8, "difficultyTier": 1, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":1,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e04","beat":6,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_b", "durationBeats": 8, "difficultyTier": 2, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":4,"lane":0,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e05","beat":7,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_b_m", "durationBeats": 8, "difficultyTier": 2, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":4,"lane":2,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e05","beat":7,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_c", "durationBeats": 8, "difficultyTier": 2, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":0,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e05","beat":7,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_c_m", "durationBeats": 8, "difficultyTier": 2, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":2,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e05","beat":7,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_d", "durationBeats": 8, "difficultyTier": 3, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":0,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e02","beat":4,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":5,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_d_m", "durationBeats": 8, "difficultyTier": 3, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":2,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e02","beat":4,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":5,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_e", "durationBeats": 8, "difficultyTier": 3, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":5,"lane":1,"objectId":"object_soldier_crow","gesture":"hold","length":2}
+      ]
+    },
+    {"id": "soldier_crow_e_m", "durationBeats": 8, "difficultyTier": 3, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":5,"lane":1,"objectId":"object_soldier_crow","gesture":"hold","length":2}
+      ]
+    },
+    {"id": "soldier_crow_f", "durationBeats": 8, "difficultyTier": 4, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":2,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e03","beat":5,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":0,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e05","beat":7,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "soldier_crow_f_m", "durationBeats": 8, "difficultyTier": 4, "weight": 0.5, "role": "soldier", "events": [
+        {"id":"e01","beat":1,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":0,"objectId":"object_soldier_crow","gesture":"hold","length":2},
+        {"id":"e03","beat":5,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e04","beat":6,"lane":2,"objectId":"object_soldier_crow","gesture":"tap"},
+        {"id":"e05","beat":7,"lane":1,"objectId":"object_soldier_crow","gesture":"tap"}
+      ]
+    },
+    {"id": "boss_soldier_frog", "durationBeats": 8, "difficultyTier": 0, "weight": 2, "role": "boss", "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":2,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_soldier_frog","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":0,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":2,"objectId":"object_boss_shot","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":1,"objectId":"object_boss_gold","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":0,"objectId":"object_boss_shot","gesture":"tap"}
+      ]
+    },
+    {"id": "split_melon_a", "durationBeats": 8, "difficultyTier": 1, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_melon_big","gesture":"tap"},
+        {"id":"e03","beat":3,"lane":0,"objectId":"object_melon_half","gesture":"tap","from":"e02"},
+        {"id":"e04","beat":4,"lane":2,"objectId":"object_melon_half","gesture":"tap","from":"e02"},
+        {"id":"e05","beat":6,"lane":1,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "split_melon_b", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":1,"lane":0,"objectId":"object_melon_big","gesture":"tap"},
+        {"id":"e02","beat":2,"lane":1,"objectId":"object_melon_half","gesture":"tap","from":"e01"},
+        {"id":"e03","beat":3,"lane":2,"objectId":"object_melon_half","gesture":"tap","from":"e01"},
+        {"id":"e04","beat":5,"lane":2,"objectId":"object_melon_big","gesture":"tap"},
+        {"id":"e05","beat":6,"lane":1,"objectId":"object_melon_half","gesture":"tap","from":"e04"},
+        {"id":"e06","beat":7,"lane":0,"objectId":"object_melon_half","gesture":"tap","from":"e04"}
+      ]
+    },
+    {"id": "split_melon_c", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_melon_big","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":0,"objectId":"object_melon_half","gesture":"tap","from":"e02"},
+        {"id":"e04","beat":3,"lane":2,"objectId":"object_melon_half","gesture":"tap","from":"e02"},
+        {"id":"e05","beat":3.5,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":4,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":5,"lane":1,"objectId":"object_melon_big","gesture":"tap"},
+        {"id":"e08","beat":6,"lane":2,"objectId":"object_melon_half","gesture":"tap","from":"e07"},
+        {"id":"e09","beat":7,"lane":0,"objectId":"object_melon_half","gesture":"tap","from":"e07"}
+      ]
+    },
+    {"id": "split_melon_d", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_melon_big","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_melon_half","gesture":"tap","from":"e01"},
+        {"id":"e03","beat":1.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":2,"objectId":"object_melon_half","gesture":"tap","from":"e01"},
+        {"id":"e05","beat":3,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":4,"lane":2,"objectId":"object_melon_big","gesture":"tap"},
+        {"id":"e07","beat":5,"lane":1,"objectId":"object_melon_half","gesture":"tap","from":"e06"},
+        {"id":"e08","beat":5.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e09","beat":6,"lane":0,"objectId":"object_melon_half","gesture":"tap","from":"e06"},
+        {"id":"e10","beat":7,"lane":1,"objectId":"object_watermelon","gesture":"tap"}
+      ]
+    },
+    {"id": "bomb_a", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":1,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e05","beat":4,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":6,"lane":0,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e08","beat":7,"lane":2,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    },
+    {"id": "bomb_b", "durationBeats": 8, "difficultyTier": 2, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":2,"lane":0,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e05","beat":3,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":4,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":5,"lane":2,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e08","beat":5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e09","beat":6,"lane":1,"objectId":"object_watermelon","gesture":"tap"}
+      ]
+    },
+    {"id": "bomb_c", "durationBeats": 8, "difficultyTier": 3, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e03","beat":1.5,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":3,"lane":1,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e05","beat":3,"lane":0,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e06","beat":4,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":5,"lane":0,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e08","beat":5,"lane":2,"objectId":"object_barrel","gesture":"tap"},
+        {"id":"e09","beat":6,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e10","beat":6.5,"lane":2,"objectId":"object_strawberry","gesture":"tap"}
+      ]
+    },
+    {"id": "bomb_d", "durationBeats": 8, "difficultyTier": 4, "weight": 1, "events": [
+        {"id":"e01","beat":0,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e02","beat":1,"lane":0,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e03","beat":1,"lane":2,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e04","beat":2,"lane":2,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e05","beat":2,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e06","beat":3,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e07","beat":3.5,"lane":0,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e08","beat":4.5,"lane":0,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e09","beat":5,"lane":1,"objectId":"object_watermelon","gesture":"tap"},
+        {"id":"e10","beat":6,"lane":1,"objectId":"object_strawberry","gesture":"tap"},
+        {"id":"e11","beat":7,"lane":1,"objectId":"object_bomb","gesture":"tap"},
+        {"id":"e12","beat":7,"lane":2,"objectId":"object_barrel","gesture":"tap"}
+      ]
+    }
+  ]
+}

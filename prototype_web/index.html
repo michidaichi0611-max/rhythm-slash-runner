@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+  <title>Rhythm Slash Runner Prototype</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main id="app">
+    <section id="home" class="screen active">
+      <div class="brand"><span>RHYTHM</span><strong>SLASH RUNNER</strong></div>
+      <div class="hero-card">
+        <div class="kitchen-glow"></div>
+        <div class="hero">🐹<span class="scarf"></span><span class="blade">◢</span></div>
+        <p>ハムスターとリズムで駆け抜けよう！</p>
+      </div>
+      <button id="playButton" class="primary">▶ プレイ</button>
+      <div class="menu-grid">
+        <button data-panel="character">🐹<span>キャラ</span></button>
+        <button data-panel="weapon">🗡️<span>武器</span></button>
+        <button data-panel="stage">🗺️<span>ステージ</span></button>
+        <button data-panel="settings">⚙️<span>設定</span></button>
+      </div>
+      <div class="wallet">★ <span id="coinHome">0</span></div>
+    </section>
+
+    <section id="panel" class="screen panel-screen">
+      <header><button id="panelBack">‹</button><h1 id="panelTitle">設定</h1></header>
+      <div id="panelContent"></div>
+    </section>
+
+    <section id="game" class="screen">
+      <canvas id="canvas" width="540" height="960"></canvas>
+      <div class="hud top-left"><b id="distance">0 m</b></div>
+      <div class="hud top-center" id="beats"></div>
+      <div class="hud top-right"><b id="score">0</b><button id="pauseButton">Ⅱ</button></div>
+      <div class="hud status"><span id="hearts">♥♥♥</span><b id="combo">×0</b></div>
+      <div id="judge"></div>
+      <div class="lane-buttons">
+        <button data-lane="0" aria-label="左レーン">左</button>
+        <button data-lane="1" aria-label="中央レーン">中</button>
+        <button data-lane="2" aria-label="右レーン">右</button>
+      </div>
+      <div id="countIn"></div>
+    </section>
+
+    <section id="pause" class="screen overlay-screen">
+      <div class="dialog"><h1>一時停止</h1><button id="resumeButton" class="primary">再開</button><button id="restartButton">やり直す</button><button id="quitButton">ホームへ</button></div>
+    </section>
+
+    <section id="result" class="screen result-screen">
+      <div class="result-hamster">🐹</div>
+      <h1>RESULT</h1>
+      <div class="result-card">
+        <p>距離 <b id="resultDistance">0 m</b></p>
+        <p>スコア <b id="resultScore">0</b></p>
+        <p>最大コンボ <b id="resultCombo">0</b></p>
+        <p>PERFECT / GOOD / MISS <b id="resultJudges">0 / 0 / 0</b></p>
+        <p>コイン <b id="resultCoins">+0</b></p>
+        <p>ベスト距離 <b id="resultBest">0 m</b></p>
+      </div>
+      <button id="retryButton" class="primary">↻ もう一度</button>
+      <button id="resultHome">ホーム</button>
+    </section>
+  </main>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
+

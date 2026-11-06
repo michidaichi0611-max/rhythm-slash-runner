@@ -1,0 +1,13 @@
+asset_id,category,purpose,status,target_path,states_or_variants,source_note
+char_hamster,character,playable hero,generated_2d,Assets/RhythmRunner/Art/Characters/Hamster,"idle|run|slash|perfect|miss",art/03_hamster_model_sheet.png
+weapon_energy_blade,weapon,default weapon,generated_2d,Assets/RhythmRunner/Art/Weapons/EnergyBlade,"model|icon|trail",art/04_weapons_objects.png
+weapon_wooden_sword,weapon,cosmetic weapon,generated_2d,Assets/RhythmRunner/Art/Weapons/WoodenSword,"model|icon|trail",art/04_weapons_objects.png
+weapon_banana,weapon,cosmetic weapon,generated_2d,Assets/RhythmRunner/Art/Weapons/Banana,"model|icon|trail",art/04_weapons_objects.png
+object_strawberry,object,standard note,generated_2d,Assets/RhythmRunner/Art/Objects/Strawberry,"intact|highlight|split",art/04_weapons_objects.png
+object_watermelon,object,standard note,generated_2d,Assets/RhythmRunner/Art/Objects/Watermelon,"intact|highlight|split",art/04_weapons_objects.png
+object_barrel,object,hard-material note,generated_2d,Assets/RhythmRunner/Art/Objects/Barrel,"intact|highlight|split",art/04_weapons_objects.png
+env_kitchen,environment,mvp stage,generated_2d,Assets/RhythmRunner/Art/Environments/Kitchen,"road|side modules|background",art/05_stage_concepts.png
+ui_core,ui,menus and gameplay,generated_2d,Assets/RhythmRunner/Art/UI,"home|select|settings|result|hud",art/02_menu_ui_board.png
+music_runner_120,audio,mvp music,synth_placeholder,Assets/RhythmRunner/Audio/Music,loop_8beat_120bpm,to_produce
+sfx_core,audio,mvp cues and slices,synth_placeholder,Assets/RhythmRunner/Audio/SFX,21_assets,SOUND_SPEC.md
+

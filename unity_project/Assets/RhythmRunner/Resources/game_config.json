@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "specVersion": "2.0",
+  "valuesStatus": "initial_not_playtested",
+  "orientation": "portrait",
+  "referenceAspect": "9:16",
+  "engine": "Unity",
+  "run": {
+    "mode": "endless",
+    "bpm": 120,
+    "phraseBeats": 8,
+    "countInBeats": 4,
+    "spawnLeadBeats": 4,
+    "initialHp": 4,
+    "distanceMetersPerBeat": 1,
+    "maxEventsPerChunk": 12,
+    "minimumIntervalBeats": 0.5
+  },
+  "playfield": {
+    "laneCount": 3,
+    "laneCentersX": [0.166667, 0.5, 0.833333],
+    "slashLineY": 0.72,
+    "characterY": 0.85,
+    "normalizedOrigin": "top_left"
+  },
+  "timing": {
+    "perfectMs": 80,
+    "goodMs": 160,
+    "inputDebounceMs": 100,
+    "calibrationMinMs": -250,
+    "calibrationMaxMs": 250,
+    "calibrationStepMs": 10
+  },
+  "score": {
+    "perfectBase": 1000,
+    "goodBase": 650,
+    "missBase": 0,
+    "comboStep": 50,
+    "comboMaxMultiplier": 1.5,
+    "emptyTapBreaksCombo": true,
+    "emptyTapDamagesHp": false
+  },
+  "difficulty": [
+    {"fromSeconds": 0, "tier": 0, "eventsMin": 4, "eventsMax": 4, "allowOffbeat": false},
+    {"fromSeconds": 16, "tier": 1, "eventsMin": 4, "eventsMax": 6, "allowOffbeat": false},
+    {"fromSeconds": 32, "tier": 2, "eventsMin": 6, "eventsMax": 8, "allowOffbeat": false},
+    {"fromSeconds": 64, "tier": 3, "eventsMin": 8, "eventsMax": 10, "allowOffbeat": true},
+    {"fromSeconds": 96, "tier": 4, "eventsMin": 10, "eventsMax": 12, "allowOffbeat": true},
+    {"fromSeconds": 128, "tier": 5, "eventsMin": 10, "eventsMax": 12, "allowOffbeat": true}
+  ],
+  "stages": {"chunksPerStage": 16, "firstStageChunks": 13, "bpmSteps": [120, 130, 140, 150]},
+  "hold": {"releaseLeniencyMs": 250, "slideGraceMs": 150},
+  "mash": {"tapsPerBeat": 2, "afterGraceMs": 300},
+  "boss": {"chunks": 3, "maxHp": 100, "shotDamagePerfect": 3, "shotDamageGood": 2, "mashDamageTotal": 60, "healHp": 1, "bonusCoinUnits": 15, "bonusScore": 5000, "chargeDamage": 15, "goldDamagePerfect": 9, "goldDamageGood": 3},
+  "items": {"perStage": 2, "beats": 8, "maxShields": 1, "boosterWeight": 0.55, "giantWeight": 0, "barrierWeight": 0.45, "heartsPerStage": 1, "heartCoinUnits": 15, "giantGapBeats": 1, "bombDodgeScore": 300},
+  "soldiers": {"perStage": 2, "firstStage": 1},
+  "defaults": {
+    "musicVolume": 0.6,
+    "sfxVolume": 0.8,
+    "cueVolume": 0.8,
+    "vibration": true,
+    "effectIntensity": "standard",
+    "cameraShake": false,
+    "calibrationMs": 0
+  },
+  "mvp": {
+    "gestures": ["tap", "hold", "slide", "mash"],
+    "characters": ["character_hamster"],
+    "weapons": ["weapon_energy_blade", "weapon_wooden_sword", "weapon_banana"],
+    "stages": ["stage_kitchen", "stage_toy_room", "stage_sky_orchard", "stage_neon_market", "stage_candy_land", "stage_freezer"],
+    "ads": false,
+    "iap": false,
+    "onlineRanking": false
+  }
+}
+

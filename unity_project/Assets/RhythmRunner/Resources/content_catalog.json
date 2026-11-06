@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "characters": [
+    {
+      "id": "character_hamster",
+      "displayName": "ハムスター",
+      "modelId": "model_hamster",
+      "animationSetId": "anim_hamster",
+      "iconId": "icon_hamster",
+      "price": 0
+    },
+    {
+      "id": "character_cat",
+      "displayName": "黒猫",
+      "modelId": "placeholder_cat",
+      "animationSetId": "anim_common",
+      "iconId": "icon_cat",
+      "price": 300
+    },
+    {
+      "id": "character_runner",
+      "displayName": "ランナー",
+      "modelId": "placeholder_runner",
+      "animationSetId": "anim_common",
+      "iconId": "icon_runner",
+      "price": 300,
+      "status": "post_mvp"
+    },
+    {
+      "id": "character_robot",
+      "displayName": "ロボット",
+      "modelId": "placeholder_robot",
+      "animationSetId": "anim_common",
+      "iconId": "icon_robot",
+      "price": 300
+    },
+    {
+      "id": "character_penguin",
+      "displayName": "ペンギン",
+      "modelId": "placeholder_penguin",
+      "animationSetId": "anim_common",
+      "iconId": "icon_penguin",
+      "price": 300
+    },
+    {
+      "id": "character_shiba",
+      "displayName": "柴犬",
+      "modelId": "placeholder_shiba",
+      "animationSetId": "anim_common",
+      "iconId": "icon_shiba",
+      "price": 300
+    },
+    {
+      "id": "character_otottsan",
+      "displayName": "おとっつぁん",
+      "modelId": "placeholder_otottsan",
+      "animationSetId": "anim_common",
+      "iconId": "icon_otottsan",
+      "price": 300
+    },
+    {
+      "id": "character_toumei",
+      "displayName": "透明人間",
+      "modelId": "placeholder_toumei",
+      "animationSetId": "anim_common",
+      "iconId": "icon_toumei",
+      "price": 300
+    },
+    {
+      "id": "character_tori",
+      "displayName": "鳥じい",
+      "modelId": "placeholder_tori",
+      "animationSetId": "anim_common",
+      "iconId": "icon_tori",
+      "price": 300
+    },
+    {
+      "id": "character_whamster",
+      "displayName": "白ハム",
+      "modelId": "placeholder_whamster",
+      "animationSetId": "anim_common",
+      "iconId": "icon_whamster",
+      "price": 300
+    },
+    {
+      "id": "character_shark",
+      "displayName": "ゼリーザメ",
+      "modelId": "placeholder_shark",
+      "animationSetId": "anim_common",
+      "iconId": "icon_shark",
+      "price": 300
+    }
+  ],
+  "weapons": [
+    {
+      "id": "weapon_energy_blade",
+      "displayName": "エネルギーブレード",
+      "trailId": "trail_cyan",
+      "soundSetId": "weapon_metal_light",
+      "price": 0
+    },
+    {
+      "id": "weapon_wooden_sword",
+      "displayName": "木刀",
+      "trailId": "trail_green",
+      "soundSetId": "weapon_wood",
+      "price": 100
+    },
+    {
+      "id": "weapon_banana",
+      "displayName": "バナナブレード",
+      "trailId": "trail_gold",
+      "soundSetId": "weapon_soft",
+      "price": 200
+    },
+    {
+      "id": "weapon_roller",
+      "displayName": "コロコロ",
+      "trailId": "trail_tape",
+      "soundSetId": "weapon_soft",
+      "price": 300
+    },
+    {
+      "id": "weapon_saibashi",
+      "displayName": "菜箸",
+      "trailId": "trail_saibashi",
+      "soundSetId": "weapon_wood",
+      "price": 300
+    },
+    {
+      "id": "weapon_ice_claw",
+      "displayName": "氷の爪",
+      "trailId": "trail_ice",
+      "soundSetId": "weapon_metal_light",
+      "price": 400
+    },
+    {
+      "id": "weapon_lasso",
+      "displayName": "カウボーイの縄",
+      "trailId": "trail_lasso",
+      "soundSetId": "weapon_soft",
+      "price": 400
+    },
+    {
+      "id": "weapon_cardboard",
+      "displayName": "段ボールの剣",
+      "trailId": "trail_cardboard",
+      "soundSetId": "weapon_soft",
+      "price": 200
+    },
+    {
+      "id": "weapon_smoke_bat",
+      "displayName": "煙のバット",
+      "trailId": "trail_smoke",
+      "soundSetId": "weapon_soft",
+      "price": 400
+    }
+  ],
+  "objects": [
+    {
+      "id": "object_strawberry",
+      "intactPrefabId": "strawberry_intact",
+      "splitPrefabId": "strawberry_split",
+      "soundId": "slice_soft",
+      "vfxId": "juice_red"
+    },
+    {
+      "id": "object_watermelon",
+      "intactPrefabId": "watermelon_intact",
+      "splitPrefabId": "watermelon_split",
+      "soundId": "slice_juicy",
+      "vfxId": "juice_red"
+    },
+    {
+      "id": "object_barrel",
+      "intactPrefabId": "barrel_intact",
+      "splitPrefabId": "barrel_split",
+      "soundId": "slice_wood",
+      "vfxId": "chips_wood"
+    },
+    {
+      "id": "object_hold",
+      "note": "slot: long object held along the lane, drawn per stage"
+    },
+    {
+      "id": "object_mash",
+      "note": "slot: big hard object broken by rapid taps, drawn per stage"
+    },
+    {
+      "id": "object_boss_shot",
+      "note": "slot: projectile fired by the stage boss"
+    },
+    {
+      "id": "object_crate",
+      "intactPrefabId": "crate_intact",
+      "splitPrefabId": "crate_split",
+      "soundId": "slice_wood",
+      "vfxId": "chips_wood"
+    },
+    {
+      "id": "object_gem",
+      "intactPrefabId": "gem_intact",
+      "splitPrefabId": "gem_split",
+      "soundId": "slice_crystal",
+      "vfxId": "sparkle"
+    },
+    {
+      "id": "object_dice",
+      "intactPrefabId": "dice_intact",
+      "splitPrefabId": "dice_split",
+      "soundId": "slice_wood",
+      "vfxId": "chips_wood"
+    },
+    {
+      "id": "object_clock",
+      "intactPrefabId": "clock_intact",
+      "splitPrefabId": "clock_split",
+      "soundId": "slice_metal",
+      "vfxId": "chips_metal"
+    },
+    {
+      "id": "object_duck",
+      "intactPrefabId": "duck_intact",
+      "splitPrefabId": "duck_split",
+      "soundId": "slice_soft",
+      "vfxId": "sparkle"
+    },
+    {
+      "id": "object_baguette",
+      "intactPrefabId": "baguette_intact",
+      "splitPrefabId": "baguette_split",
+      "soundId": "slice_soft",
+      "vfxId": "crumbs"
+    },
+    {
+      "id": "object_leek",
+      "intactPrefabId": "leek_intact",
+      "splitPrefabId": "leek_split",
+      "soundId": "slice_juicy",
+      "vfxId": "juice_green"
+    },
+    {
+      "id": "object_pencil",
+      "intactPrefabId": "pencil_intact",
+      "splitPrefabId": "pencil_split",
+      "soundId": "slice_wood",
+      "vfxId": "chips_wood"
+    },
+    {
+      "id": "object_pumpkin",
+      "intactPrefabId": "pumpkin_intact",
+      "splitPrefabId": "pumpkin_split",
+      "soundId": "slice_juicy",
+      "vfxId": "juice_orange"
+    },
+    {
+      "id": "object_safe",
+      "intactPrefabId": "safe_intact",
+      "splitPrefabId": "safe_split",
+      "soundId": "slice_metal",
+      "vfxId": "coins"
+    },
+    {
+      "id": "object_boss_gold",
+      "note": "slot: boss weak-point shot (PERFECT = critical)"
+    },
+    {
+      "id": "object_boss_charge",
+      "note": "slot: boss charge attack, guarded with a hold"
+    },
+    {
+      "id": "object_slide",
+      "note": "slot: slide (a hold that snakes between lanes); each stage dresses it"
+    },
+    {
+      "id": "object_ramen",
+      "intactPrefabId": "hold_ramen",
+      "soundId": "slice_slurp",
+      "vfxId": "broth"
+    },
+    {
+      "id": "object_candy",
+      "intactPrefabId": "hold_candy",
+      "soundId": "slice_crunch",
+      "vfxId": "sparkle"
+    },
+    {
+      "id": "object_train",
+      "intactPrefabId": "hold_train",
+      "soundId": "slice_clack",
+      "vfxId": "chips"
+    },
+    {
+      "id": "object_soldier_ginger",
+      "intactPrefabId": "soldier_ginger_walk",
+      "soundId": "parry_clang",
+      "vfxId": "sparkle"
+    },
+    {
+      "id": "object_melon_big",
+      "intactPrefabId": "melon_big",
+      "soundId": "slice_juicy",
+      "vfxId": "juice",
+      "note": "round 27: a big cracked melon that splits; its halves come back as targets"
+    },
+    {
+      "id": "object_melon_half",
+      "intactPrefabId": "melon_half",
+      "soundId": "slice_juicy",
+      "vfxId": "juice"
+    },
+    {
+      "id": "object_bomb",
+      "intactPrefabId": "bomb",
+      "soundId": "bomb_boom",
+      "vfxId": "explosion",
+      "note": "round 27: never cut it (combo breaks, no heart); letting it pass is a dodge"
+    },
+    {
+      "id": "object_soldier_crow",
+      "intactPrefabId": "soldier_crow_walk",
+      "soundId": "parry_clang",
+      "vfxId": "sparkle"
+    },
+    {
+      "id": "object_soldier_frog",
+      "intactPrefabId": "soldier_frog_walk",
+      "soundId": "parry_clang",
+      "vfxId": "sparkle"
+    },
+    {
+      "id": "object_soldier_toy",
+      "intactPrefabId": "soldier_toy_walk",
+      "soundId": "parry_clang",
+      "vfxId": "sparkle"
+    },
+    {
+      "id": "object_item_booster",
+      "note": "item: distance x2 for 8 beats"
+    },
+    {
+      "id": "object_item_giant",
+      "note": "item: drone cuts for 8 beats (never in boss fights)"
+    },
+    {
+      "id": "object_item_barrier",
+      "note": "item: blocks one MISS"
+    },
+    {
+      "id": "object_item_heart",
+      "note": "item: one per stage mid-way; restores a heart (coins when HP is full)"
+    }
+  ],
+  "stages": [
+    {
+      "id": "stage_kitchen",
+      "displayName": "巨大キッチン",
+      "backdropId": "kitchen_backdrop",
+      "objects": [
+        "object_strawberry",
+        "object_watermelon",
+        "object_crate"
+      ],
+      "holdObject": "object_baguette",
+      "slideObject": "object_ramen",
+      "mashObject": "object_pumpkin",
+      "bossId": "boss_onion",
+      "musicId": "music_runner",
+      "price": 0
+    },
+    {
+      "id": "stage_toy_room",
+      "displayName": "おもちゃ部屋",
+      "backdropId": "stage_bg_toy_room",
+      "objects": [
+        "object_duck",
+        "object_clock",
+        "object_dice"
+      ],
+      "holdObject": "object_pencil",
+      "slideObject": "object_pencil",
+      "mashObject": "object_safe",
+      "bossId": "boss_toaster",
+      "bossIds": ["boss_toaster", "boss_zenmai"],
+      "musicId": "music_runner",
+      "price": 0
+    },
+    {
+      "id": "stage_sky_orchard",
+      "displayName": "空中果樹園",
+      "backdropId": "stage_bg_sky_orchard",
+      "objects": [
+        "object_strawberry",
+        "object_watermelon",
+        "object_gem"
+      ],
+      "holdObject": "object_leek",
+      "slideObject": "object_ramen",
+      "mashObject": "object_pumpkin",
+      "bossId": "boss_onion",
+      "bossIds": ["boss_onion", "boss_kaminari"],
+      "musicId": "music_runner",
+      "price": 0
+    },
+    {
+      "id": "stage_neon_market",
+      "displayName": "ネオン市場",
+      "backdropId": "stage_bg_neon_market",
+      "objects": [
+        "object_gem",
+        "object_clock",
+        "object_barrel"
+      ],
+      "holdObject": "object_leek",
+      "slideObject": "object_leek",
+      "mashObject": "object_safe",
+      "bossId": "boss_donut",
+      "musicId": "music_runner",
+      "price": 0
+    },
+    {
+      "id": "stage_candy_land",
+      "displayName": "おかしの国",
+      "backdropId": "stage_bg_candy_land",
+      "objects": [
+        "object_strawberry",
+        "object_duck",
+        "object_gem"
+      ],
+      "holdObject": "object_baguette",
+      "slideObject": "object_ramen",
+      "mashObject": "object_pumpkin",
+      "bossId": "boss_icecream",
+      "musicId": "music_runner",
+      "price": 0
+    },
+    {
+      "id": "stage_freezer",
+      "displayName": "こおりの冷凍庫",
+      "backdropId": "stage_bg_freezer",
+      "objects": [
+        "object_gem",
+        "object_watermelon",
+        "object_dice"
+      ],
+      "holdObject": "object_pencil",
+      "slideObject": "object_pencil",
+      "mashObject": "object_safe",
+      "bossId": "boss_icecream",
+      "bossIds": ["boss_icecream", "boss_yukidaruma"],
+      "musicId": "music_runner",
+      "price": 0
+    }
+  ]
+}

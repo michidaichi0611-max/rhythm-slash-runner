@@ -1,0 +1,14 @@
+// Round 33: the Android Gradle plugin 9 (Unity 6000.3) needs a namespace for every library module; the Play Games
+// plugin's androidlib had none. The manifest here is written by Window > Google Play Games > Setup (app id).
+apply plugin: 'com.android.library'
+
+android {
+    namespace "com.google.example.games.mainlibproj"
+    compileSdk 36
+    defaultConfig { minSdk 25 }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+        }
+    }
+}

@@ -1,0 +1,41 @@
+# Unity: rebuilt automatically
+unity_project/Library/
+unity_project/Temp/
+unity_project/Obj/
+unity_project/obj/
+unity_project/Logs/
+unity_project/UserSettings/
+unity_project/MemoryCaptures/
+unity_project/Recordings/
+unity_project/build_number.txt
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+
+# Finished apps and working captures
+Builds/
+review/
+
+# Raw art sources (503 MB); the game's processed art is in unity_project/Assets
+art_generated/
+
+# Web prototype
+prototype_web/node_modules/
+
+# Signing keys and secrets must never be committed
+*.keystore
+*.jks
+*.p12
+*.pem
+.env*
+
+# Local tools and OS files
+.claude/
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
